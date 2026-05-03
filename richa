@@ -1,0 +1,8 @@
+n=input("enter your name")
+print("My name is ",n)
+print("data type of n is ",type(n))
+age =int(input("enter your age"))
+print("My age is",age)
+isstudent=True
+print("AM i a student?",isstudent)
+print("data type of isstudent is",type(isstudent))
